@@ -1,8 +1,19 @@
 ﻿# 🚀 RESCUEFLOW — Autonomous Emergency Triage & Focus Command Center
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-rescueflow28.vercel.app-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://rescueflow28.vercel.app/)
+[![Next.js](https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
 > *"From chaos to action."*
 
 **RescueFlow** is a next-generation, cyberpunk-styled productivity radar and emergency task triage command center designed to rescue overwhelmed operators, engineers, founders, and students facing deadline avalanches, production outages, and high-stress chaos.
+
+---
+
+## 🌐 Live Deployment
+
+🚀 **Production URL:** [https://rescueflow28.vercel.app/](https://rescueflow28.vercel.app/)
 
 ---
 
